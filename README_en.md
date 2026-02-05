@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Model-SDTL-orange" alt="Model">
   <img src="https://img.shields.io/badge/Task-SOH_Estimation-blueviolet" alt="Task">
   
-  <h1>📚 Reading Notes: SDTL - Self-attention-based Deep Transfer Learning for Online SOH Estimation</h1>
+  <h1>📚 Reading Notes: SDTL——Self-attention-based Deep Transfer Learning for Online SOH Estimation</h1>
   <p>Paper: Deep transfer learning enabled online state-of-health estimation of lithium-ion batteries under small samples across different cathode materials, ambient temperature and charge-discharge protocols</p>
   
   <div style="margin: 10px 0;">
@@ -62,7 +62,7 @@ The model was validated on two datasets (Series A: NCM batteries, Series B: NASA
 > *Figure (a) shows estimation results across three battery series; Figure (b) highlights fitting performance under low-temperature ($4^{\circ}C$) conditions; Figure (c) presents the error distribution comparison.*
 
 ## 📚 References
-- **Citation**: Li, X., Zhao, M., et al. "Deep transfer learning enabled online state-of-health estimation..." Journal of Power Sources 650 (2025): 237503.
+- **Citation**: X. Li, M. Zhao*, S. Zhong, J. Li, S. Fu, Z. Yan. Deep transfer learning enabled online state-of-health estimation of lithium-ion batteries under small samples across different cathode materials, ambient temperature and charge-discharge protocols[J]. Journal of Power Sources, 2025, 650: 237503.
 - **Data Sources**: In-house NCM battery dataset and NASA Prognostics Repository (NCA).
 
 <br>
