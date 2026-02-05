@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Model-SDTL-orange" alt="Model">
   <img src="https://img.shields.io/badge/Task-SOH_Estimation-blueviolet" alt="Task">
   
-  <h1>📚 读书笔记：基于自注意力机制深度迁移学习的锂电池 SOH 在线估计 (SDTL)</h1>
+  <h1>📚 读书笔记：SDTL——基于自注意力机制深度迁移学习的锂电池 SOH 在线估计 </h1>
   <p>论文：Deep transfer learning enabled online state-of-health estimation of lithium-ion batteries under small samples across different cathode materials, ambient temperature and charge-discharge protocols</p>
   
   <div style="margin: 10px 0;">
@@ -62,7 +62,7 @@
 > *图 (a) 展示了 SDTL 在三个不同系列电池上的估计效果；图 (b) 重点展示了在低温 ($4^{\circ}C$) 工况下的拟合情况；图 (c) 为误差分布对比。*
 
 ## 📚 参考资料
-- **引用格式**: Li, X., Zhao, M., et al. "Deep transfer learning enabled online state-of-health estimation..." Journal of Power Sources 650 (2025): 237503.
+- **引用格式**: X. Li, M. Zhao*, S. Zhong, J. Li, S. Fu, Z. Yan. Deep transfer learning enabled online state-of-health estimation of lithium-ion batteries under small samples across different cathode materials, ambient temperature and charge-discharge protocols[J]. Journal of Power Sources, 2025, 650: 237503.
 - **数据来源**: 自测 NCM 电池数据集与 NASA Prognostics Repository (NCA)。
 
 <br>
