@@ -51,7 +51,7 @@ El artículo propone un enfoque de Aprendizaje de Transferencia Profundo basado 
 > *Diagrama de la red basada en autoatención, incluyendo Codificación Posicional, bloques de Atención Multicabezal, Normalización de Capa y Redes Feed-Forward (FFN).*
 
 ## 📈 Resultados Experimentales
-El modelo fue validado en dos conjuntos de datos (Serie A: baterías NCM, Serie B: baterías NCA de NASA) cubriendo diferentes temperaturas ($24^{\circ}C, 4^{\circ}C$) y tasas (1C, 2C).
+El modelo fue validado en dos conjuntos de datos (Serie A: baterías NCM, Serie B: baterías NCA de NASA) cubriendo diferentes temperaturas (24℃, 4℃) y tasas (1C, 2C).
 
 - **Precisión**: SDTL logró un RMSE y MAE más bajos en comparación con los modelos base Transformer y LSTM.
 - **Adaptación con Pocas Muestras**: Capaz de una predicción precisa del ciclo de vida completo utilizando solo el 10% de los datos de ciclos tempranos de la batería objetivo.
@@ -59,7 +59,7 @@ El modelo fue validado en dos conjuntos de datos (Serie A: baterías NCM, Serie 
 
 > 📊 **Visualización de Resultados de Estimación de SOH**
 > ![Resultados de Estimación](assets/fig8.jpg)
-> *La Figura (a) muestra los resultados de estimación en tres series de baterías; la Figura (b) destaca el rendimiento de ajuste en condiciones de baja temperatura ($4^{\circ}C$); la Figura (c) presenta la comparación de distribución de errores.*
+> *La Figura (a) muestra los resultados de estimación en tres series de baterías; la Figura (b) destaca el rendimiento de ajuste en condiciones de baja temperatura (4℃); la Figura (c) presenta la comparación de distribución de errores.*
 
 ## 📚 Referencias
 - **Cita**: X. Li, M. Zhao*, S. Zhong, J. Li, S. Fu, Z. Yan. Deep transfer learning enabled online state-of-health estimation of lithium-ion batteries under small samples across different cathode materials, ambient temperature and charge-discharge protocols[J]. Journal of Power Sources, 2025, 650: 237503.
