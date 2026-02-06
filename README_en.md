@@ -25,7 +25,7 @@
 ## 🔍 Core Problems
 Online State-of-Health (SOH) estimation for lithium-ion batteries faces significant challenges:
 - **Data Scarcity**: Insufficient early-stage data for new batteries or specific conditions.
-- **Variable Conditions**: Significant degradation differences due to cathode materials (e.g., NCM vs. NCA), ambient temperatures (e.g., low temp $4^{\circ}C$), and discharge rates.
+- **Variable Conditions**: Significant degradation differences due to cathode materials (e.g., NCM vs. NCA), ambient temperatures (e.g., low temp 4℃), and discharge rates.
 - **Model Generalization**: Traditional deep learning models struggle to maintain accuracy on unseen operating conditions without extensive retraining.
 
 ## 💡 Methodology: The SDTL Framework
