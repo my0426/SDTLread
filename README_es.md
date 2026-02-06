@@ -25,7 +25,7 @@
 ## 🔍 Problemas Centrales
 La estimación en línea del Estado de Salud (SOH) para baterías de iones de litio enfrenta desafíos significativos:
 - **Escasez de Datos**: Datos insuficientes de etapas tempranas para baterías nuevas o condiciones específicas.
-- **Condiciones Variables**: Diferencias significativas de degradación debido a materiales catódicos (ej. NCM vs. NCA), temperaturas ambientales (ej. baja temperatura $4^{\circ}C$) y tasas de descarga.
+- **Condiciones Variables**: Diferencias significativas de degradación debido a materiales catódicos (ej. NCM vs. NCA), temperaturas ambientales (ej. baja temperatura 4℃) y tasas de descarga.
 - **Generalización del Modelo**: Los modelos tradicionales de aprendizaje profundo luchan por mantener la precisión en condiciones operativas no vistas sin un reentrenamiento extenso.
 
 ## 💡 Metodología: El Marco SDTL
