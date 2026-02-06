@@ -51,7 +51,7 @@ The paper proposes a Self-attention-based Deep Transfer Learning (SDTL) approach
 > *Diagram of the self-attention-based network, including Positional Encoding, Multi-Head Attention blocks, Layer Normalization, and Feed-Forward Networks (FFN).*
 
 ## 📈 Experimental Results
-The model was validated on two datasets (Series A: NCM batteries, Series B: NASA NCA batteries) covering different temperatures ($24^{\circ}C, 4^{\circ}C$) and rates (1C, 2C).
+The model was validated on two datasets (Series A: NCM batteries, Series B: NASA NCA batteries) covering different temperatures (24℃, 4℃) and rates (1C, 2C).
 
 - **Accuracy**: SDTL achieved lower RMSE and MAE compared to baseline Transformer and LSTM models.
 - **Small-Sample Adaptation**: Capable of accurate full-lifecycle prediction using only 10% of early-cycle data from the target battery.
@@ -59,7 +59,7 @@ The model was validated on two datasets (Series A: NCM batteries, Series B: NASA
 
 > 📊 **Visualization of SOH Estimation Results**
 > ![Estimation Results](assets/fig8.jpg)
-> *Figure (a) shows estimation results across three battery series; Figure (b) highlights fitting performance under low-temperature ($4^{\circ}C$) conditions; Figure (c) presents the error distribution comparison.*
+> *Figure (a) shows estimation results across three battery series; Figure (b) highlights fitting performance under low-temperature (4℃) conditions; Figure (c) presents the error distribution comparison.*
 
 ## 📚 References
 - **Citation**: X. Li, M. Zhao*, S. Zhong, J. Li, S. Fu, Z. Yan. Deep transfer learning enabled online state-of-health estimation of lithium-ion batteries under small samples across different cathode materials, ambient temperature and charge-discharge protocols[J]. Journal of Power Sources, 2025, 650: 237503.
